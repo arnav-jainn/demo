@@ -1,0 +1,7 @@
+BASIC COMMANDS
+----------------
+
+git clone <link of github>
+git status
+git add <file name> OR git add .(to add all the files )
+git commit -m "some message"
